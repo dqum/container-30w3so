@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "dqum",
+  "repo": "container-30w3so",
+  "name": "dqum",
+  "email": "114021214+dqum@users.noreply.github.com",
+}
